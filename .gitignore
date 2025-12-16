@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large for GitHub)
+data/raw/*.csv
+data/raw/*.parquet
+data/processed/*.csv
+data/processed/*.parquet
+
+# Large result files
+results/*.parquet
+results/**/*.parquet
+
+# API keys & secrets
+.env
+.env.local
+secrets.txt
+api_keys.py
+
+# IDE (VS Code only)
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak
+.cache/
