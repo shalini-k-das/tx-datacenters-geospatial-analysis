@@ -39,3 +39,4 @@ Thumbs.db
 *.bak
 .cache/
 notebooks/.cache.sqlite
+data/processed/hourly_weather_data.csv
