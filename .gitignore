@@ -13,6 +13,7 @@ ENV/
 
 # Data (too large for GitHub)
 data/raw/*.csv
+data/raw/weather_gdf.geojson
 data/raw/*.parquet
 data/processed/*.csv
 !data/processed/texas_datacenters_final_clean.csv
