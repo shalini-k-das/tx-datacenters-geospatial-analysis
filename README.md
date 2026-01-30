@@ -11,7 +11,7 @@ Across water-stressed regions, there has been a significant rise in the siting o
 3) To what extent are environmental costs from data center water consumption disproportionately concentrated in counties with elevated socioeconomic vulnerability indicators?
 
 ## Data 
-* <ins>Data Center Locations and Attributes:</ins> Retrieved 382 of 392 data center location from [datacentermap.com](https://www.datacentermap.com/usa/texas/) using custom built python scraper. 
+* <ins>Data Center Locations and Attributes:</ins> Retrieved 382 of 392 data center location from [datacentermap.com](https://www.datacentermap.com/usa/texas/) using [scraper](https://github.com/shalini-k-das/tx-datacenters-geospatial-analysis/blob/main/scripts/01_texas_datacenter_scraper.py). 
 * <ins>Electricity Generating Power Plant Locations:</ins> Retrieved latitude and longitude coordinates using 'plantid' and 'plantName' as index to estimate geographic impact of  Fuel Mix (EIA 930) data within specific counties/regions and how this may correspond with data center siting once aggregated/preprocessed.
 * <ins>Fuel Energy Mix Data:</ins> Sourced from Form EIA-923 Monthly Generation by Energy Source, filtered by Balancing Authority/Form Respondent and selected: ERCOT (Electric Reliability Council of Texas), EPE (El Paso Electric Company), SWPP (Southwest Power Pool for Southeastern Texas bordering Louisiana), and (TEX). 
 * <ins>Weather Data:</ins> Retrieved hourly temperature, humidity, and precipitation, wet bulb temperature at coordinates retrieved for datacenter locations from July 1, 2022 through July 31, 2025 (37 month period).
