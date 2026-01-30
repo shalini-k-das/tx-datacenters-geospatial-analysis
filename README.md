@@ -4,11 +4,7 @@
 ## Quick Links
 
 ## Overview 
-Driven by the electricity generation and computing demands from artificial intelligence, there has been a significant rise in the siting of large and hyperscale data centers across water-stressed regions due to the comparative advantages in land acquisition costs and economic development incentives these areas present for corporate interests.
-
-Across water-stressed regions, the electricity generation and computing demands of artificial intelligence have driven a significant rise in the siting of large and hyperscale data centers due to the economic development incentives and comparative advantages in land acquisition costs these areas offer corporate interests.
-
-Across water-stressed regions, there has been a significant rise in the siting of large and hyperscale data centers due to the comparative advantages in land costs and economic development incentives. The accelerated demand for electricity generation and computing driven by corporate interests in artificial intelligence has heightened concerns about fresh water usage and energy consumption. As a result, these expansion projects have raised critical questions in both academic and policy contexts about the disparate environmental and social implications of data center siting patterns.
+Across water-stressed regions, there has been a significant rise in the siting of large and hyperscale data centers due to the comparative advantages in land costs and economic development incentives these areas sometimes offer. The accelerated demand for electricity generation and computing driven by corporate interests in artificial intelligence has heightened concerns about fresh water usage and energy consumption. As a result, these expansion projects have raised critical questions about the disparate environmental and social implications of data center siting patterns.
 
 ## Research Questions
 1)  How do Texas data center water consumption patterns (WUE) vary spatially across ERCOT wind and solar generation zones,  and do facilities in water-stressed regions experience higher environmental burdens than their water-secure counterparts?
